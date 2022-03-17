@@ -4,5 +4,5 @@ module.exports = gpnote;
 
 function gpnote() {
     // TODO
-    console.log(321)
+    console.log(3121)
 }
